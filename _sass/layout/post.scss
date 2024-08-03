@@ -120,7 +120,7 @@ header {
   --wc-stm-form-button-border: 1px solid var(--btn-border-color);
   --wc-stm-form-submit-background-color: var(--sidebar-btn-bg);
   --wc-stm-form-cancel-background-color: var(--sidebar-btn-bg);
-  --wc-stm-form-button-background-color-hover: #007bff;
+  --wc-stm-form-button-background-color-hover: rgb(200, 162, 211);
   --wc-stm-form-button-color-hover: white;
 
   font-size: 1rem;
@@ -262,7 +262,7 @@ header {
       text-overflow: ellipsis;
 
       &:hover {
-        color: var(--toc-highlight);
+        color: rgb(200, 162, 211);
         text-decoration: none;
       }
 
@@ -272,7 +272,7 @@ header {
     }
 
     .is-active-link {
-      color: var(--toc-highlight) !important;
+      color: rgb(200, 162, 211) !important;
       font-weight: 600;
 
       &::before {
@@ -280,7 +280,7 @@ header {
         width: 1px;
         left: -1px;
         height: 1.25rem;
-        background-color: var(--toc-highlight) !important;
+        background-color: rgb(200, 162, 211) !important;
       }
     }
 

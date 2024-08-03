@@ -106,14 +106,15 @@
 
     &.active {
       .page-link {
-        background-color: var(--btn-paginator-hover-color);
+        background-color: rgb(200, 162, 211);
+        color: rgb(59, 59, 59);
       }
     }
 
     &:not(.active) {
       .page-link {
         &:hover {
-          box-shadow: inset var(--btn-border-color) 0 0 0 1px;
+          box-shadow: inset rgb(200, 162, 211) 0 0 0 1px;
         }
       }
     }
