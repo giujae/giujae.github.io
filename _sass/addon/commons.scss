@@ -703,10 +703,12 @@ $btn-mb: 0.5rem;
 
   #avatar {
     display: block;
+    margin-left: 2rem;
     width: 7rem;
     height: 7rem;
     overflow: hidden;
-    box-shadow: var(--avatar-border-color) 0 0 0 2px;
+    // box-shadow: var(--avatar-border-color) 0 0 0 2px;
+    border: 5px, solid, rgb(200, 162, 211);
     transform: translateZ(0); /* fixed the zoom in Safari */
 
     img {
@@ -722,7 +724,7 @@ $btn-mb: 0.5rem;
     @include mt-mb(2.5rem);
     @extend %clickable-transition;
 
-    padding-left: 2.5rem;
+    padding-left: 2.3rem;
     padding-right: 1.25rem;
     width: 100%;
   }
@@ -730,7 +732,7 @@ $btn-mb: 0.5rem;
   .site-title {
     font-family: inherit;
     font-weight: 900;
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     line-height: 1.2;
     letter-spacing: 0.25px;
     margin-top: 1.25rem;
@@ -740,12 +742,12 @@ $btn-mb: 0.5rem;
       @extend %clickable-transition;
       @extend %sidebar-link-hover;
 
-      color: var(--site-title-color);
+      color: rgb(200, 162, 211);
     }
   }
 
   .site-subtitle {
-    font-size: 95%;
+    font-size: 86%;
     color: var(--site-subtitle-color);
     margin-top: 0.25rem;
     word-spacing: 1px;
@@ -790,7 +792,7 @@ $btn-mb: 0.5rem;
 
       &.active {
         .nav-link {
-          color: var(--sidebar-active-color);
+          color: rgb(200, 162, 211);
           background-color: var(--sidebar-hover-bg);
 
           span {

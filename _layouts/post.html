@@ -13,7 +13,9 @@ tail_includes:
 
 <article class="px-1">
   <header>
-    <h1 data-toc-skip>{{ page.title }}</h1>
+    {% assign many = page.categories | size %}
+    {% assign last = many | minus: 1 %}
+    <h1 data-toc-skip><span style="color:rgb(200, 162, 211);">{{ page.categories[last] }} › </span>{{ page.title }}</h1>
     {% if page.description %}
     <p class="post-desc fw-light mb-4">{{ page.description }}</p>
     {% endif %}
