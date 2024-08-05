@@ -40,7 +40,7 @@
   <div class="d-flex flex-wrap mt-3 mb-1 me-3">
     {% for tag_name in trending_tags %}
     {% assign url = tag_name | slugify | url_encode | prepend: '/tags/' | append: '/' %}
-    <a class="post-tag btn btn-outline-secondary" style="color: rgb(200, 162, 211); href=" {{ url | relative_url }}">{{
+    <a class="post-tag btn btn-outline-secondary" style="color: rgb(219, 182, 191); href=" {{ url | relative_url }}">{{
       tag_name }}</a>
     {% endfor %}
   </div>
