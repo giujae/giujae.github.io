@@ -14,7 +14,7 @@ order: 3
     <tbody>
         <tr>
             <td>
-                <input type=checkbox >ㅤ어제 이해한 메모리할당의 흐름 정리<br>
+                <input type=checkbox checked>ㅤ어제 이해한 메모리할당의 흐름 정리<br>
                 <input type=checkbox >ㅤCSS공부<br>
             </td>
             <td>
