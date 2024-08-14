@@ -18,7 +18,7 @@ order: 3
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
-            style="color: rgb(200, 162, 211);"></i></span> 잔고 확인 모으기<br>
+            style="color: rgb(200, 162, 211);"></i></span> 오늘 진도 보고 강의 계획<br>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
             style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
             </td>
