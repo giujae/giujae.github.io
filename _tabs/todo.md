@@ -6,6 +6,28 @@ order: 3
 <table style="width : 100%">
     <thead>
         <tr align=center>
+            <th>24/08/15 목</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox >ㅤHTML강의 3장 끝내기<br>
+                <input type=checkbox >ㅤ계단오르기<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span> 이번주 과제랑 강의 비율 분배<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
             <th>24/08/14 수</th>
             <th>Schedules</th>
         </tr>
@@ -13,8 +35,8 @@ order: 3
     <tbody>
         <tr>
             <td>
-                <input type=checkbox >ㅤHTML 강의 최대한으로<br>
-                <input type=checkbox >ㅤ계단오르기<br>
+                <input type=checkbox checked>ㅤHTML 강의 최대한으로<br>
+                <input type=checkbox checked>ㅤ계단오르기<br>
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
