@@ -6,7 +6,7 @@ order: 3
 <table style="width : 100%">
     <thead>
         <tr align=center>
-            <th>24/08/18 일</th>
+            <th>24/08/19 월</th>
             <th>Schedules</th>
         </tr>
     </thead>
