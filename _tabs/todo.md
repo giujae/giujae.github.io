@@ -13,7 +13,29 @@ order: 3
     <tbody>
         <tr>
             <td>
-                <input type=checkbox >ㅤ7주차 키워드 끝내기<br>
+                <input type=checkbox >ㅤCSAPP 11장 읽기<br>
+                <input type=checkbox >ㅤ유산소 및 근력 운동<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span> 기차표 예매<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
+            <th>24/08/18 일</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox checked>ㅤ7주차 키워드 끝내기<br>
                 <input type=checkbox checked>ㅤ유산소 및 근력 운동<br>
             </td>
             <td>
