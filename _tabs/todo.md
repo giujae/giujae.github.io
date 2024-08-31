@@ -6,7 +6,7 @@ order: 3
 <table style="width : 100%">
     <thead>
         <tr align=center>
-            <th>24/08/30 금</th>
+            <th>24/08/31 토</th>
             <th>Schedules</th>
         </tr>
     </thead>
@@ -15,6 +15,29 @@ order: 3
             <td>
                 <input type=checkbox >ㅤpintOS priority 구현 내용 정리<br>
                 <input type=checkbox >ㅤpintOS mlfqs 이론 정리<br>
+                <input type=checkbox >ㅤ유산소 및 근력 운동<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span> 가족관계증명서<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
+            <th>24/08/30 금</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox >ㅤpintOS priority 구현 내용 정리<br>
+                <input type=checkbox checked>ㅤpintOS mlfqs 이론 정리<br>
                 <input type=checkbox >ㅤ유산소 및 근력 운동<br>
             </td>
             <td>
