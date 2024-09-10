@@ -15,7 +15,7 @@ order: 3
             <td>
                 <input type=checkbox >ㅤpintOS fork 까지 구현<br>
                 <input type=checkbox >ㅤHTML 마크업 강의 자기전에 2시간<br>
-                <input type=checkbox >ㅤ유산소 및 근력 운동<br>
+                <input type=checkbox checked>ㅤ유산소 및 근력 운동<br>
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
