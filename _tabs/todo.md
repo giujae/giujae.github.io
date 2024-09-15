@@ -13,7 +13,7 @@ order: 3
     <tbody>
         <tr>
             <td>
-                <input type=checkbox >ㅤ추석기간 공부 계획 세우기<br>
+                <input type=checkbox checked>ㅤ추석기간 공부 계획 세우기<br>
                 <input type=checkbox >ㅤ유산소 및 근력 운동<br>
             </td>
             <td>
