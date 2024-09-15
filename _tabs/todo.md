@@ -6,6 +6,28 @@ order: 3
 <table style="width : 100%">
     <thead>
         <tr align=center>
+            <th>24/09/15 일</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox >ㅤ추석기간 공부 계획 세우기<br>
+                <input type=checkbox >ㅤ유산소 및 근력 운동<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>창문 한 번 코팅<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
             <th>24/09/14 토</th>
             <th>Schedules</th>
         </tr>
