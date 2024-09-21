@@ -13,12 +13,12 @@ order: 3
     <tbody>
         <tr>
             <td>
-                <input type=checkbox >ㅤ가상메모리 깃북 읽기<br>
+                <input type=checkbox >ㅤ가상메모리 코드 읽기<br>
                 <input type=checkbox >ㅤ유산소 및 근력 운동<br>
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
-            style="color: rgb(200, 162, 211);"></i></span>커피<br>
+            style="color: rgb(200, 162, 211);"></i></span>레티놀 문의<br>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
             style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
             </td>
