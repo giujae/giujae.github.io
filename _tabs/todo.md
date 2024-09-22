@@ -6,6 +6,29 @@ order: 3
 <table style="width : 100%">
     <thead>
         <tr align=center>
+            <th>24/09/22 일</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox >ㅤ가상메모리 과제 파트 1 정리 완료<br>
+                <input type=checkbox >ㅤCSS 강의 듣기<br>
+                <input type=checkbox >ㅤ유산소 및 근력 운동<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>레티놀 문의<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
             <th>24/09/21 토</th>
             <th>Schedules</th>
         </tr>
@@ -13,8 +36,8 @@ order: 3
     <tbody>
         <tr>
             <td>
-                <input type=checkbox >ㅤ가상메모리 코드 읽기<br>
-                <input type=checkbox >ㅤ유산소 및 근력 운동<br>
+                <input type=checkbox checked>ㅤ가상메모리 코드 읽기<br>
+                <input type=checkbox checked>ㅤ유산소 및 근력 운동<br>
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
