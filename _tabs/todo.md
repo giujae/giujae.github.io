@@ -13,7 +13,7 @@ order: 3
     <tbody>
         <tr>
             <td>
-                <input type=checkbox >ㅤ가상메모리 과제 파트 1 정리 완료<br>
+                <input type=checkbox checked>ㅤ가상메모리 과제 파트 1 정리 완료<br>
                 <input type=checkbox >ㅤCSS 강의 듣기<br>
                 <input type=checkbox >ㅤ유산소 및 근력 운동<br>
             </td>
