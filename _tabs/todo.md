@@ -6,6 +6,28 @@ order: 3
 <table style="width : 100%">
     <thead>
         <tr align=center>
+            <th>24/10/01 화</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox >ㅤ가상메모리 전체 흐름 정리 및 느낀점 정리<br>
+                <input type=checkbox checked>ㅤ유산소 및 근력 운동<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>계획 세우는거 잊지말구<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
             <th>24/09/26 목</th>
             <th>Schedules</th>
         </tr>
@@ -14,7 +36,7 @@ order: 3
         <tr>
             <td>
                 <input type=checkbox >ㅤ가상메모리 과제 전체 정리<br>
-                <input type=checkbox >ㅤ유산소 및 근력 운동<br>
+                <input type=checkbox checked>ㅤ유산소 및 근력 운동<br>
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
