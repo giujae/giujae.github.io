@@ -6,6 +6,30 @@ order: 3
 <table style="width : 100%">
     <thead>
         <tr align=center>
+            <th>24/10/27 일</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox > 입찰 기능 완성<br>
+                <input type=checkbox > 알고리즘 1문제<br>
+                <input type=checkbox > 면접 cs 준비<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>정글에서 배운 내용 정리<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
+
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
             <th>24/10/26 토</th>
             <th>Schedules</th>
         </tr>
@@ -13,9 +37,9 @@ order: 3
     <tbody>
         <tr>
             <td>
-                <input type=checkbox > 채팅 기능 완성<br>
-                <input type=checkbox >ㅤ알고리즘 1문제<br>
-                <input type=checkbox >ㅤ유산소 및 근력 운동<br>
+                <input type=checkbox checked> 채팅 기능 완성<br>
+                <input type=checkbox checked>ㅤ알고리즘 1문제<br>
+                <input type=checkbox checked>ㅤ유산소 및 근력 운동<br>
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
