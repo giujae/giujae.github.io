@@ -6,16 +6,18 @@ order: 3
 <table style="width : 100%">
     <thead>
         <tr align=center>
-            <th>24/10/27 일</th>
+            <th>24/10/28 월</th>
             <th>Schedules</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                <input type=checkbox > 입찰 기능 완성<br>
+                <input type=checkbox > 입찰 추가 기능 구현<br>
                 <input type=checkbox > 알고리즘 1문제<br>
-                <input type=checkbox > 면접 cs 준비<br>
+                <input type=checkbox > pintOS 복기<br>
+                <input type=checkbox > 6시 기상<br>
+                <input type=checkbox > 00시 퇴근<br>
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
@@ -25,7 +27,29 @@ order: 3
             </td>
         </tr>
     </tbody>
-
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
+            <th>24/10/27 일</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox checked> 입찰 기능 완성<br>
+                <input type=checkbox checked> 알고리즘 1문제<br>
+                <input type=checkbox checked> 면접 cs 준비<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>정글에서 배운 내용 정리<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
 </table>
 <table style="width : 100%">
     <thead>
