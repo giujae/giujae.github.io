@@ -6,6 +6,30 @@ order: 3
 <table style="width : 100%">
     <thead>
         <tr align=center>
+            <th>24/12/02 월</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox > 블로그 카테고리 수정(가독성 떨어짐)<br>
+                <input type=checkbox > 포트폴리오 완성<br>
+                <input type=checkbox checked> 6시 기상<br>
+                <input type=checkbox > 00시 퇴근<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>지금 생긴 여유를 어떻게 사용할까<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
             <th>24/11/30 토</th>
             <th>Schedules</th>
         </tr>
@@ -13,10 +37,10 @@ order: 3
     <tbody>
         <tr>
             <td>
-                <input type=checkbox > 지원서 항목 완성<br>
-                <input type=checkbox > 포트폴리오 새로 작성 초안<br>
+                <input type=checkbox checked> 지원서 항목 완성<br>
+                <input type=checkbox checked> 포트폴리오 새로 작성 초안<br>
                 <input type=checkbox checked> 6시 기상<br>
-                <input type=checkbox > 00시 퇴근<br>
+                <input type=checkbox checked> 00시 퇴근<br>
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
