@@ -14,9 +14,35 @@ order: 3
         <tr>
             <td>
                 <input type=checkbox > 블로그 카테고리 수정(가독성 떨어짐)<br>
-                <input type=checkbox > 포트폴리오 완성<br>
+                <input type=checkbox > 인턴 지원 완료<br>
+                <input type=checkbox > 원티드 미션 완료<br>
+                <input type=checkbox > 스토브 지원서 마지막 검토 및 제출<br>
                 <input type=checkbox checked> 6시 기상<br>
                 <input type=checkbox > 00시 퇴근<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>지금 생긴 여유를 어떻게 사용할까<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
+            <th>24/12/03 화</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox > 블로그 카테고리 수정(가독성 떨어짐)<br>
+                <input type=checkbox checked> 포트폴리오 완성<br>
+                <input type=checkbox checked> 6시 기상<br>
+                <input type=checkbox checked> 00시 퇴근<br>
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
