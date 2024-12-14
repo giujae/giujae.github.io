@@ -6,6 +6,31 @@ order: 3
 <table style="width : 100%">
     <thead>
         <tr align=center>
+            <th>24/12/14 토</th>
+            <th>Schedules</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <input type=checkbox > next js 공부 시작<br>
+                <input type=checkbox > 프로젝트 기획 틈틈히<br>
+                <input type=checkbox > 아르바이트 찾기<br>
+                <input type=checkbox > 6시 기상<br>
+                <input type=checkbox > 00시 수면<br>
+            </td>
+            <td>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>지금 생긴 여유를 어떻게 사용할까<br>
+                <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
+            style="color: rgb(200, 162, 211);"></i></span>자기전에 피부관리<br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table style="width : 100%">
+    <thead>
+        <tr align=center>
             <th>24/12/09 월</th>
             <th>Schedules</th>
         </tr>
@@ -14,10 +39,10 @@ order: 3
         <tr>
             <td>
                 <input type=checkbox > 프로젝트 중 느낀 점들 기록한거 체계적으로 정리하고 내것으로 만들기<br>
-                <input type=checkbox > 12월 전체 계획 세우기(지원 당락 여부에 따른 추후 변경 가능)<br>
-                <input type=checkbox > 이력서 수정 가독성 떨어짐<br>
-                <input type=checkbox > 6시 기상<br>
-                <input type=checkbox > 00시 퇴근<br>
+                <input type=checkbox checked> 12월 전체 계획 세우기(지원 당락 여부에 따른 추후 변경 가능)<br>
+                <input type=checkbox checked> 이력서 수정 가독성 떨어짐<br>
+                <input type=checkbox checked> 6시 기상<br>
+                <input type=checkbox checked> 00시 퇴근<br>
             </td>
             <td>
                 <span style="color:rgb(218, 139, 139);"><i class="fa-solid fa-star fa-rotate-90"
